@@ -9,7 +9,6 @@ type: page
 menu:
   main:
     weight: 50
-draft: true
 
 ---
 This website is all about my thoughts.
